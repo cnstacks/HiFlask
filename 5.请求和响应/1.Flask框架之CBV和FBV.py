@@ -2,7 +2,7 @@
 # Project: Day123 
 # Software: PyCharm
 # Time    : 2018-09-18 21:57
-# File    : 9.Flask框架之CBV和FBV.py
+# File    : 1.Flask框架之CBV和FBV.py
 # Author  : 天晴天朗
 # Email   : tqtl@tqtl.org
 from flask import Flask, redirect, render_template, views

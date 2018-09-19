@@ -2,7 +2,7 @@
 # Project: Day123 
 # Software: PyCharm
 # Time    : 2018-09-18 19:14
-# File    : 8.添加装饰器.py
+# File    : 2.添加装饰器.py
 # Author  : 天晴天朗
 # Email   : tqtl@tqtl.org
 from flask import Flask
