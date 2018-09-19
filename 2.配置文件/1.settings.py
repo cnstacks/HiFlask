@@ -2,7 +2,7 @@
 # Project: Day123 
 # Software: PyCharm
 # Time    : 2018-09-18 11:25
-# File    : settings.py
+# File    : 1.settings.py
 # Author  : 天晴天朗
 # Email   : tqtl@tqtl.org
 

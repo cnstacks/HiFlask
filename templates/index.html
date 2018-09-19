@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+
+
+{% block content %}
+    <h1>{{ k1 }}</h1>
+    <h1>{{ k2.0 }} {{ k2[0] }}</h1>
+    <h1>{{ k3.name }} {{ k3['name'] }}{{ k3.get('name',19930911) }}</h1>
+    <h1>{{ k4 }}</h1>
+    <h1>{{ k5(99) }}</h1>
+
+{% endblock %}

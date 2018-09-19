@@ -7,7 +7,7 @@
 # Email   : tqtl@tqtl.org
 
 
-from flask import Flask, render_template, request, redirect, jsonify
+from flask import Flask, render_template, request, redirect, jsonify, make_response
 
 app = Flask(__name__)
 
@@ -23,8 +23,8 @@ def index():
     return ''
     return render_template()
     return redirect('/index/')
-    #返回json数据;
-    return json.dumps({})# return jsonify({})
+    # 返回json数据;
+    return json.dumps({})  # return jsonify({})
 
 
 if __name__ == '__main__':
